@@ -18,7 +18,7 @@ Usage of Instax for attacking targets without prior mutual consent is illegal. I
 
 ### Usage:
 ```
-git clone https://github.com/HdYt12/instax.git
+git clone https://github.com/HdYt12/instax-master.git
 cd instax
 chmod +x instax.sh
 service tor start
@@ -35,6 +35,6 @@ bash install.sh
 ### How it works?
 Tool uses TOR and rotating the ip address to avoid blocking. 
 
-### Donate!
+### Tiktok!
 Support the authors:
 https://vt.tiktok.com/ZSeyjccnv/
